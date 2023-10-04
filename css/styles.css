@@ -296,21 +296,20 @@ nav:after {
   }
 }
 
-/*
 section {
-	height: 100vh;
-	justify-content: center;
-	align-items: center;
-	font-size: 4rem;
-	color: #fff;
-	padding-top: 30px;
-	border-bottom: 4px solid #000;
-	display: flex;
-	flex-wrap: wrap;
-	align-content: center;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  font-size: 4rem;
+  color: #fff;
+  padding-top: 30px;
+  border-bottom: 4px solid #000;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
 }
 
-section h2, section p {
+/*section h2, section p {
 	margin: 0;
 	width: 100%;
 	text-align: center;
