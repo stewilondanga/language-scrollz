@@ -368,12 +368,12 @@ section p {
   left: 13px
 }
 
-/*.scroller span + span {
-	top: inherit;
-	top: 70px;
+.scroller span+span {
+  top: inherit;
+  top: 70px;
 }
 
-.scroller span:before {
+/*.scroller span:before {
 	content: "";
 	position: absolute;
 	width: 8px;
