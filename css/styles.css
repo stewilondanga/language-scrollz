@@ -323,11 +323,11 @@ section p {
   background-color: var(--sect1);
 }
 
-/*#html {
-	background-color: var(--sect2);
+#html {
+  background-color: var(--sect2);
 }
 
-#js {
+/*#js {
 	background-color: var(--sect3);
 }
 
