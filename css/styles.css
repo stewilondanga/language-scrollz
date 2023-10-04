@@ -335,11 +335,11 @@ section p {
   background-color: var(--sect4);
 }
 
-/*#sql {
-	background-color: var(--sect5);
+#sql {
+  background-color: var(--sect5);
 }
 
-.scroller {
+/*.scroller {
 	position: fixed;
 	width: 30px;
 	height: 50px;
