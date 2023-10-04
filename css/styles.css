@@ -349,18 +349,18 @@ section p {
   border-radius: 20px;
 }
 
-/*.scroller:before {
-	content: "";
-	position: absolute;
-	width: 30px;
-	height: 50px;
-	background: radial-gradient(circle at 50% 33%, #fff0 0 6px, #fff 7px 100%);
-	border-radius: 20px 20px;
-	left: 0;
-	bottom: 0;
+.scroller:before {
+  content: "";
+  position: absolute;
+  width: 30px;
+  height: 50px;
+  background: radial-gradient(circle at 50% 33%, #fff0 0 6px, #fff 7px 100%);
+  border-radius: 20px 20px;
+  left: 0;
+  bottom: 0;
 }
 
-.scroller span {
+/*.scroller span {
 	position: absolute;
 	height: 30px;
 	border-left: 5px dotted #fff;
