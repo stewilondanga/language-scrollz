@@ -264,10 +264,11 @@ nav a:nth-child(2):hover {
   --clr: var(--sect2);
 }
 
-/*nav a:nth-child(3):hover {
-	--clr: var(--sect3);
+nav a:nth-child(3):hover {
+  --clr: var(--sect3);
 }
-nav a:nth-child(4):hover {
+
+/*nav a:nth-child(4):hover {
 	--clr: var(--sect4);
 }
 nav a:nth-child(5):hover {
