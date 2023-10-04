@@ -241,15 +241,16 @@ nav a:last-child {
   border-right-width: 0;
 }
 
-/*nav a:hover {
-	background: linear-gradient(90deg, var(--clr) 0 50%, var(--black) 0 100%);
-	background-size: 200%;
-	background-position: 100% 0;
-	animation: colorize 0.5s ease 0s;
-	animation-fill-mode: forwards;
-	transition: all 0.5s ease 0s;
+nav a:hover {
+  background: linear-gradient(90deg, var(--clr) 0 50%, var(--black) 0 100%);
+  background-size: 200%;
+  background-position: 100% 0;
+  animation: colorize 0.5s ease 0s;
+  animation-fill-mode: forwards;
+  transition: all 0.5s ease 0s;
 }
 
+/*
 @keyframes colorize {
 	100% { background-position: 0 0; }
 }
