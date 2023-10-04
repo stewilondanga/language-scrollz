@@ -220,20 +220,20 @@ nav {
   transition: all 0.5s ease 0s;
 }
 
-/*nav a {
-	color: #fff;
-	text-decoration: none;
-	padding: 16px 10px;
-	position: relative;
-	z-index: 1;
-	width: 100%;
-	font-size: 1.6rem;
-	border: 2px solid #000;
-	border-top-width: 0px;
-	border-bottom-width: 4px;
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 16px 10px;
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  font-size: 1.6rem;
+  border: 2px solid #000;
+  border-top-width: 0px;
+  border-bottom-width: 4px;
 }
 
-nav a:first-child {
+/*nav a:first-child {
 	border-left-width: 0;
 }
 
