@@ -233,11 +233,11 @@ nav a {
   border-bottom-width: 4px;
 }
 
-/*nav a:first-child {
-	border-left-width: 0;
+nav a:first-child {
+  border-left-width: 0;
 }
 
-nav a:last-child {
+/*nav a:last-child {
 	border-right-width: 0;
 }
 
