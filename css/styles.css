@@ -204,11 +204,11 @@ body:after {
   padding: 20px 0;
 }
 
-/*header {
-	width: 100%;
+header {
+  width: 100%;
 }
 
-nav {
+/*nav {
 	top: 0;
 	left: 0;
 	position: fixed;
