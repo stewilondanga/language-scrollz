@@ -250,11 +250,13 @@ nav a:hover {
   transition: all 0.5s ease 0s;
 }
 
-/*
 @keyframes colorize {
-	100% { background-position: 0 0; }
+  100% {
+    background-position: 0 0;
+  }
 }
 
+/*
 nav a:nth-child(1):hover {
 	--clr: var(--sect1);
 }
