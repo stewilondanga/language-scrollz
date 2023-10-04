@@ -391,17 +391,17 @@ section p {
   top: 28px;
 }
 
-/*.scroller:after {
-	content: "Scroll";
-	position: absolute;
-	left: -5rem;
-	font-size: 1.65rem;
-	bottom: 0.5rem;
-	color: #fff;
-	font-weight: bold;
+.scroller:after {
+  content: "Scroll";
+  position: absolute;
+  left: -5rem;
+  font-size: 1.65rem;
+  bottom: 0.5rem;
+  color: #fff;
+  font-weight: bold;
 }
 
-@media screen and (max-width: 580px) {
+/*@media screen and (max-width: 580px) {
 	nav a { font-size: 1.25rem; line-height: 2rem; }
 	.scroller:after { content: "";}
 }
