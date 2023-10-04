@@ -162,11 +162,12 @@ a {
   color: #04d;
 }
 
-/*.cal td {
+.cal td {
   padding: 0 2px;
   line-height: 100%;
 }
 
+/*
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 
 :root {
