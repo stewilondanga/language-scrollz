@@ -309,13 +309,13 @@ section {
   align-content: center;
 }
 
-/*section h2, section p {
-	margin: 0;
-	width: 100%;
-	text-align: center;
+section h2, section p {
+  margin: 0;
+  width: 100%;
+  text-align: center;
 }
 
-section p {
+/*section p {
 	font-size: 1.25rem;
 }
 
