@@ -178,11 +178,11 @@ a {
   --sect5: #8946ff;
 }
 
-/*
 * {
-	box-sizing: border-box;
+  box-sizing: border-box;
 }
 
+/*
 html {
 	scroll-behavior: smooth;
 }
