@@ -373,20 +373,20 @@ section p {
   top: 70px;
 }
 
-/*.scroller span:before {
-	content: "";
-	position: absolute;
-	width: 8px;
-	height: 8px;
-	border: 4px solid #fff;
-	border-color: #fff #fff #fff0 #fff0;
-	border-radius: 4px;
-	transform: rotate(-45deg);
-	left: -11px;
-	top: -13px;
+.scroller span:before {
+  content: "";
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  border: 4px solid #fff;
+  border-color: #fff #fff #fff0 #fff0;
+  border-radius: 4px;
+  transform: rotate(-45deg);
+  left: -11px;
+  top: -13px;
 }
 
-.scroller span + span:before {
+/*.scroller span + span:before {
 	border-color: #fff0 #fff0 #fff #fff ;
 	top: 28px;
 }
