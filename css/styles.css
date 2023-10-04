@@ -182,12 +182,11 @@ a {
   box-sizing: border-box;
 }
 
-/*
 html {
-	scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 
-body {
+/*body {
 	margin: 0;
 	padding: 0;
 	transition: all 0.5s ease 0s;
