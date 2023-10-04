@@ -331,11 +331,11 @@ section p {
   background-color: var(--sect3);
 }
 
-/*#php {
-	background-color: var(--sect4);
+#php {
+  background-color: var(--sect4);
 }
 
-#sql {
+/*#sql {
 	background-color: var(--sect5);
 }
 
