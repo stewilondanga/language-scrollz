@@ -7,6 +7,7 @@
   display: inline-block;
   vertical-align: 60px;
   margin-right: 3px;
+  z-index: 10;
 }
 
 /*
