@@ -360,15 +360,15 @@ section p {
   bottom: 0;
 }
 
-/*.scroller span {
-	position: absolute;
-	height: 30px;
-	border-left: 5px dotted #fff;
-	top: -50px;
-	left: 13px
+.scroller span {
+  position: absolute;
+  height: 30px;
+  border-left: 5px dotted #fff;
+  top: -50px;
+  left: 13px
 }
 
-.scroller span + span {
+/*.scroller span + span {
 	top: inherit;
 	top: 70px;
 }
