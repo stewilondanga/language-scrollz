@@ -315,15 +315,15 @@ section h2, section p {
   text-align: center;
 }
 
-/*section p {
-	font-size: 1.25rem;
+section p {
+  font-size: 1.25rem;
 }
 
 #css {
-	background-color: var(--sect1);
+  background-color: var(--sect1);
 }
 
-#html {
+/*#html {
 	background-color: var(--sect2);
 }
 
