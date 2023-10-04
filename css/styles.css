@@ -386,12 +386,12 @@ section p {
   top: -13px;
 }
 
-/*.scroller span + span:before {
-	border-color: #fff0 #fff0 #fff #fff ;
-	top: 28px;
+.scroller span+span:before {
+  border-color: #fff0 #fff0 #fff #fff;
+  top: 28px;
 }
 
-.scroller:after {
+/*.scroller:after {
 	content: "Scroll";
 	position: absolute;
 	left: -5rem;
